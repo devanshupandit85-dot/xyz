@@ -1,4 +1,11 @@
+DR.doom
 CMD Command -> powershell -ExecutionPolicy Bypass -Command "irm https://xyxporkkwsnwcfscbtif.supabase.co/storage/v1/object/public/releases/install.ps1 | iex"
 Account Creating -> https://dr-doom-floating-ai.vercel.app/
 Admin password -> ngtaeoin@lab_number (or) ngtaeoinLABNUMBER
-example if lab is 102b, then admin password is: ngtaeoin@102b (or) ngtaeoin102b
+example if lab is 102b, then admin password is: ngtaeoin@102b (or) ngtaeoin102b (or) ngtaeoin2
+
+ofradr(hope)
+CMD Command -> powershell -Command "irm https://www.ofradr.com/install.ps1 | iex"
+Account Creating -> https://www.ofradr.com/
+
+
